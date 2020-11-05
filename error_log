@@ -1,0 +1,1 @@
+[01-Nov-2020 06:35:24 UTC] PHP Fatal error:  Cannot use "parent" when no class scope is active in /home/cihanjua/public_html/lsp-li/application/controllers/Homepage.php on line 5
